@@ -1,4 +1,5 @@
 /// <reference types="cypress" />
+
 import {
     navigate,
     addTodo,
